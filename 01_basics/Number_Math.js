@@ -15,5 +15,5 @@ let max = 20
 let randomMinMax = Math.round(Math.random() * (max - min + 1)) + min;
 // console.log(randomMinMax)
 
-console.log(Math.random())
-console.log(Math.random() * 10 + 1)
+// console.log(Math.random())
+// console.log(Math.random() * 10 + 1)
